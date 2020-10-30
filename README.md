@@ -1,1 +1,3 @@
-# fino-net
+# FINO-net
+
+Under construction...
