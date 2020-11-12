@@ -1,6 +1,8 @@
 # FINO-net
 
-Under construction...
+**FINO-Net: A Deep Multimodal Sensor Fusion Framework for Manipulation Failure Detection** <br>
+*Arda Inceoglu, Eren Erdal Aksoy, Abdullah Cihan Ak, Sanem Sariel* <br>
+[PDF link](https://arxiv.org/pdf/2011.05817.pdf)
 
 ## Dataset
 Sample executions from the dataset:
