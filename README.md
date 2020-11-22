@@ -4,6 +4,16 @@
 *Arda Inceoglu, Eren Erdal Aksoy, Abdullah Cihan Ak, Sanem Sariel* <br>
 [PDF link](https://arxiv.org/pdf/2011.05817.pdf)
 
+#### Citation
+```
+@article{inceoglu2020fino,
+  title={FINO-Net: A Deep Multimodal Sensor Fusion Framework for Manipulation Failure Detection},
+  author={Inceoglu, Arda and Aksoy, Eren Erdal and Ak, Abdullah Cihan and Sariel, Sanem},
+  journal={arXiv preprint arXiv:2011.05817},
+  year={2020}
+}
+```
+
 ## Dataset
 Sample executions from the dataset:
 
