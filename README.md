@@ -4,6 +4,7 @@
 *Arda Inceoglu, Eren Erdal Aksoy, Abdullah Cihan Ak, Sanem Sariel* <br>
 [PDF link](https://arxiv.org/pdf/2011.05817.pdf)
 
+
 #### Citation
 ```
 @article{inceoglu2020fino,
@@ -15,6 +16,8 @@
 ```
 
 ## Dataset
+[Download Data (~9.5GB compressed, ~20GB decompressed)](https://air.cs.itu.edu.tr/data/failnet_dataset.zip)
+
 Sample executions from the dataset:
 
 <table style="width:100%">
