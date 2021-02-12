@@ -16,7 +16,7 @@
 ```
 
 ## Dataset
-[Download Data (~9.5GB compressed, ~20GB decompressed)](https://air.cs.itu.edu.tr/data/failnet_dataset.zip)
+[Download Data (~9.5GB compressed, ~20GB decompressed)](https://air.cs.itu.edu.tr/data/finonet_dataset.zip)
 
 Sample executions from the dataset:
 
