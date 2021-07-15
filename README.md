@@ -5,6 +5,9 @@
 [PDF link](https://arxiv.org/pdf/2011.05817.pdf)
 
 
+[![FINO-Net](https://img.youtube.com/vi/G_XYHcRstYg/0.jpg)](https://www.youtube.com/watch?v=G_XYHcRstYg)
+
+
 #### Citation
 ```
 @article{inceoglu2020fino,
