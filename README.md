@@ -20,7 +20,7 @@ Accepted for publication at IROS 2021.
 ```
 
 ## Dataset
-[Download Data (~9.5GB compressed, ~20GB decompressed)](https://air.cs.itu.edu.tr/data/finonet_dataset.zip)
+[Download Data (~9.5GB compressed, ~20GB decompressed)](http://160.75.159.4/data/failure.zip)
 
 [Download Annotations](https://github.com/ardai/fino-net/raw/main/annotation.zip)
 
