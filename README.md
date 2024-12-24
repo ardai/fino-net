@@ -19,7 +19,7 @@ Accepted for publication at IROS 2021.
 }
 ```
 
-## Dataset
+## FAILURE Dataset
 [Download Data (~9.5GB compressed, ~20GB decompressed)](http://160.75.159.4/data/failure.zip)
 
 [Download Annotations](https://github.com/ardai/fino-net/raw/main/annotation.zip)
