@@ -1,15 +1,20 @@
 # FINO-net
 
 **FINO-Net: A Deep Multimodal Sensor Fusion Framework for Manipulation Failure Detection** <br>
+*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* <br>
 *Arda Inceoglu, Eren Erdal Aksoy, Abdullah Cihan Ak, Sanem Sariel* <br>
-[PDF link](https://arxiv.org/pdf/2011.05817.pdf)
+[PDF link](https://ieeexplore.ieee.org/document/9636455)
+
+**Multimodal Detection and Classification of Robot Manipulation Failures ** <br>
+*IEEE Robotics and Automation Letters, Volume 9, Issue 2, pp. 1396 - 1403, 2024* <br>
+*Arda Inceoglu, Eren Erdal Aksoy, Sanem Sariel* <br>
+[PDF link](https://ieeexplore.ieee.org/document/10372079)
 
 #### Video
 [![FINO-Net](https://img.youtube.com/vi/G_XYHcRstYg/0.jpg)](https://www.youtube.com/watch?v=G_XYHcRstYg)
 
 
 #### Citation
-Accepted for publication at IROS 2021.
 ```
 @inproceedings{inceoglu2020fino,
   title={FINO-Net: A Deep Multimodal Sensor Fusion Framework for Manipulation Failure Detection},
@@ -18,6 +23,20 @@ Accepted for publication at IROS 2021.
   year={2021},
 }
 ```
+
+```
+@article{ullmann2010bit,
+  title={Multimodal Detection and Classification of Robot Manipulation Failures},
+  author={Arda Inceoglu, Eren Erdal Aksoy, Sanem Sariel},
+  journal={IEEE Robotics and Automation Letters (RA-L)},
+  volume={9},
+  issue={2},
+  pages={1396-1403},
+  year={2024},
+  publisher={IEEE}
+}
+```
+
 
 ## FAILURE Dataset
 [Download Data (~9.5GB compressed, ~20GB decompressed)](http://160.75.159.4/data/failure.zip)
